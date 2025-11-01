@@ -1,0 +1,111 @@
+# Datasets
+BraTS*/
+BraTS Segmentation/
+Segmentation_dataset/
+Segmentaion_dataset/
+Data/
+Data_*/
+Classified_Data*/
+*.npy
+*.nii
+*.nii.gz
+
+# Model Weights
+Models/
+*.pth
+*.pt
+*.onnx
+*.h5
+*.pb
+
+# Training Outputs
+checkpoints/
+runs/
+mlruns/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Results and Temporary Files
+results/sample_segmentations/*.png
+results/sample_segmentations/*.jpg
+results/dice_scores/*.png
+results/visualizations/*.png
+*.csv
+*.sarif
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Large Files
+*.mp4
+*.avi
+*.mov
+
+# Configuration Files (with sensitive data)
+.env
+config.yaml
+secrets.yaml
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# TensorBoard
+runs/
+tensorboard/
+
+# Temporary Processing Files
+temp/
+tmp/
+cache/
