@@ -89,8 +89,8 @@ This project introduces a **novel Residual-Inception U-Net architecture** that c
 
 ```bash
 # Clone the repository
-git clone https://github.com/Necromancer1009/brain-tumor-segmentation.git
-cd brain-tumor-segmentation
+git clone https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation.git
+cd Residual-Inception-Unet-Segmentation
 
 # Create virtual environment
 python -m venv venv
@@ -259,8 +259,8 @@ scikit-learn>=1.3.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Necromancer1009/brain-tumor-segmentation.git
-cd brain-tumor-segmentation
+git clone https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation.git
+cd Residual-Inception-Unet-Segmentation
 ```
 
 2. Create a virtual environment:
@@ -391,7 +391,7 @@ Segmentation outputs available in `results/` directory:
 ## 📁 Project Structure
 
 ```
-brain-tumor-segmentation/
+Residual-Inception-Unet-Segmentation/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -474,13 +474,13 @@ Contributions are welcome! Areas for improvement:
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{brain-tumor-segmentation-2025,
+@misc{Residual-Inception-Unet-Segmentation-2025,
   author = {Your Name},
   title = {Brain Tumor Segmentation using Residual-Inception U-Net},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Necromancer1009/brain-tumor-segmentation}}
+  howpublished = {\url{https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation}}
 }
 ```
 
@@ -570,15 +570,15 @@ Special thanks to:
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Necromancer1009/brain-tumor-segmentation&type=Date)](https://star-history.com/#Necromancer1009/brain-tumor-segmentation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Necromancer1009/Residual-Inception-Unet-Segmentation&type=Date)](https://star-history.com/#Necromancer1009/Residual-Inception-Unet-Segmentation&Date)
 
 ---
 
 ### 📧 Contact & Support
 
 For questions, issues, or collaborations:
-- 📫 Open an [Issue](https://github.com/Necromancer1009/brain-tumor-segmentation/issues)
-- 💬 Start a [Discussion](https://github.com/Necromancer1009/brain-tumor-segmentation/discussions)
+- 📫 Open an [Issue](https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation/issues)
+- 💬 Start a [Discussion](https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation/discussions)
 - ⭐ Star this repo if you found it helpful!
 
 ---
