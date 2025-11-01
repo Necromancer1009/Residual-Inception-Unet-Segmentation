@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![BraTS](https://img.shields.io/badge/Dataset-BraTS%202021-orange.svg)](https://www.med.upenn.edu/cbica/brats2021/)
 
 [**Features**](#-key-features) • [**Installation**](#-quick-start) • [**Models**](#-model-architectures) • [**Results**](#-performance-metrics) • [**Citation**](#-citation)
@@ -566,6 +566,32 @@ Special thanks to:
 
 ---
 
+## 📜 License
+
+**⚠️ PROPRIETARY LICENSE - ALL RIGHTS RESERVED**
+
+This project is **proprietary software** owned by **Necromancer1009**. 
+
+### ❌ Usage Restrictions
+
+- **NO** use without explicit written permission
+- **NO** copying, modification, or distribution without authorization
+- **NO** commercial use without a separate license agreement
+
+### ✅ To Use This Code
+
+If you wish to use this software, you **MUST**:
+
+1. **Request permission** from the owner
+2. **Provide full attribution** with a link to this repository
+3. **Clearly state** you are using it with permission
+
+Contact: [Open an issue](https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation/issues) to request permission
+
+**See [LICENSE](LICENSE) for complete terms.**
+
+---
+
 <div align="center">
 
 ## 🌟 Star History
@@ -576,10 +602,12 @@ Special thanks to:
 
 ### 📧 Contact & Support
 
-For questions, issues, or collaborations:
+For questions, issues, or **permission requests**:
 - 📫 Open an [Issue](https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation/issues)
 - 💬 Start a [Discussion](https://github.com/Necromancer1009/Residual-Inception-Unet-Segmentation/discussions)
 - ⭐ Star this repo if you found it helpful!
+
+**⚠️ Remember: This is proprietary software. You must request permission before using any code from this repository.**
 
 ---
 
