@@ -89,7 +89,7 @@ This project introduces a **novel Residual-Inception U-Net architecture** that c
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/brain-tumor-segmentation.git
+git clone https://github.com/Necromancer1009/brain-tumor-segmentation.git
 cd brain-tumor-segmentation
 
 # Create virtual environment
@@ -259,7 +259,7 @@ scikit-learn>=1.3.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brain-tumor-segmentation.git
+git clone https://github.com/Necromancer1009/brain-tumor-segmentation.git
 cd brain-tumor-segmentation
 ```
 
@@ -480,7 +480,7 @@ If you use this work in your research, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/brain-tumor-segmentation}}
+  howpublished = {\url{https://github.com/Necromancer1009/brain-tumor-segmentation}}
 }
 ```
 
@@ -570,15 +570,15 @@ Special thanks to:
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/brain-tumor-segmentation&type=Date)](https://star-history.com/#yourusername/brain-tumor-segmentation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Necromancer1009/brain-tumor-segmentation&type=Date)](https://star-history.com/#Necromancer1009/brain-tumor-segmentation&Date)
 
 ---
 
 ### 📧 Contact & Support
 
 For questions, issues, or collaborations:
-- 📫 Open an [Issue](https://github.com/yourusername/brain-tumor-segmentation/issues)
-- 💬 Start a [Discussion](https://github.com/yourusername/brain-tumor-segmentation/discussions)
+- 📫 Open an [Issue](https://github.com/Necromancer1009/brain-tumor-segmentation/issues)
+- 💬 Start a [Discussion](https://github.com/Necromancer1009/brain-tumor-segmentation/discussions)
 - ⭐ Star this repo if you found it helpful!
 
 ---
